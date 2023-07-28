@@ -11,5 +11,5 @@
 #### https://aladhan.com/prayer-times-api
 #### https://github.com/BetimShala/quran-images-api
  ![Screenshot_2023-07-27-18-15-50-13_e27fd16247201105755b70ba0f936e69](https://github.com/Amirkhaled-03/Qurani_App/assets/114363723/d7b24607-0f24-427d-87fd-50ac45c10e3a)  
- ![Screenshot_2023-07-27-18-15-53-48_e27fd16247201105755b70ba0f936e69](https://github.com/Amirkhaled-03/Qurani_App/assets/114363723/c50abc44-34a0-45b8-a782-452fd2839962)
-![Screenshot_2023-07-27-18-16-39-75_e27fd16247201105755b70ba0f936e69](https://github.com/Amirkhaled-03/Qurani_App/assets/114363723/1b3a39e8-4078-4a98-a88e-9ca4e87ab57f)
+
+
